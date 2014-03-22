@@ -5,7 +5,7 @@ int Agrega_Usuario();
 int main (int argc,char **argv)
 {   Validar_Usuario();
  	return 0;
-}
+}//blabla
 int Agrega_Usuario(){
     FILE *fp;
 
