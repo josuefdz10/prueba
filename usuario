@@ -6,6 +6,7 @@ int main (int argc,char **argv)
 {   Validar_Usuario();
  	return 0;
 }//blabla
+prinf("hola que hace");
 int Agrega_Usuario(){
     FILE *fp;
 
